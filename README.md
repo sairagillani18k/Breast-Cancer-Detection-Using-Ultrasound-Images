@@ -38,7 +38,7 @@ Here are the results of the training process:
 - **Final Training Loss**: 0.30
 - **Final Validation Loss**: 0.35
 
-![Model Accuracy and Loss](Training.png)
+![Model Accuracy and Loss](Figure_1.png)
 
 The model demonstrates strong performance, achieving high accuracy and low loss on both the training and validation datasets. However, some fluctuations in validation accuracy indicate potential room for further fine-tuning and optimization.
 

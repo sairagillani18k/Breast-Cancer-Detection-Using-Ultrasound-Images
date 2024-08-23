@@ -42,6 +42,9 @@ Here are the results of the training process:
 
 The model demonstrates strong performance, achieving high accuracy and low loss on both the training and validation datasets. However, some fluctuations in validation accuracy indicate potential room for further fine-tuning and optimization.
 
+## Model File
+You can simply train the model using the steps explained below, if you need the model file, please reach out to me on my GitHub, Thanks
+
 ## Dependencies
 The project relies on the following libraries:
 
